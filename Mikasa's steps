@@ -1,0 +1,38 @@
+Video : https://www.youtube.com/watch?v=kBcJX8nI54Q
+
+Hoi Bois 
+feels so long since i last uploaded any TUT 
+
+so today most demanded youtube Tut 
+
+finite leech bot with updated features 
+
+like extract split and upload zip/unzip gdrive files using rclones
+ 
+And yes Gautamajay repo is no more ,
+or i was unable to find on github maybe banned or private
+
+https://github.com/gautamajay52/TorrentLeech-Gdrive
+
+
+we will be using this forked repo https://github.com/reaitten/tgtlg
+
+to deploy it we need to fork it first
+
+till then lets create a bot
+then
+if we want to use gdrive features then we need to add rclone.conf file as wel
+
+
+
+
+wait for it to deploy but till then 
+me was pausing video in between this tutorial because of some pvt chats in TG 
+
+my bad was trying unzip instead of extract xD
+
+Kindly if you have more requests for me 
+
+send at @mikasa_xD
+
+WE have now successfully deployed our bot TYSM for watching 
